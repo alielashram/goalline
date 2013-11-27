@@ -13,3 +13,7 @@ Webapp that assists users in breaking down actionable plays toward achieving the
 ## Authors
 * Phil Worthington (github.com/philworthington)
 * Ali El-Ashram (github.com/alielashram)
+
+## License
+
+MIT: http://aliel.mit-license.org/
